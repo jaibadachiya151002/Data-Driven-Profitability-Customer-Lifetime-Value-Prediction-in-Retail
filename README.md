@@ -90,3 +90,6 @@ To understand and model customer churn risk using survival analysis techniques.
 ## 🎯 Final Takeaway
 
 This project isn’t just about models—it’s a **full-stack customer analytics pipeline** that transforms raw retail data into strategic insight. Whether it’s predicting profits, uncovering hidden customer segments, or estimating customer value, this project delivers real-world impact and business intelligence.
+
+
+# Also you can check the description.ipynb in this file there are some snippets and working parts of the project
