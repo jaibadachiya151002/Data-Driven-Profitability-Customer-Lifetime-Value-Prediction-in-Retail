@@ -1,8 +1,19 @@
 # 🧠 Retail Analytics Project: Profitability Optimization & Customer Insights
+---
 ## 🧩 Problem Statement
 
-In the rapidly evolving retail landscape, maintaining consistent profitability while retaining valuable customers is critical to long-term success. In this business case, a large retail company experienced an alarming **48% drop in sales and a 32% decline in profit** during **Q4 of 2017**, despite achieving its **highest-ever order volume (6,041 orders)** in the same quarter. This counterintuitive trend raised urgent concerns among business stakeholders regarding the sustainability of their sales strategy, customer retention, and overall operational effectiveness.
+A leading retail company has raised concerns about **a sharp decline in profitability during the last quarter of 2017**, despite marketing reports showing a surge in order volume. Management suspects that aggressive discounting campaigns may have played a role, but the full impact on margins, customer behavior, and overall sales performance remains unclear.
 
+At the same time, customer retention has become increasingly challenging, with anecdotal evidence suggesting that high-value customers may be churning at a faster rate. Leadership is seeking a data-driven approach to:
+
+* **Diagnose the root causes** behind the Q4 profitability dip.
+* **Understand the effectiveness** of current discounting and sales strategies.
+* **Identify high- and low-value customers** to enable more targeted marketing efforts.
+* **Predict future revenue potential** from customers to inform investment in retention.
+* **Quantify churn risk** and recommend interventions to reduce it.
+
+This business case requires a full-cycle analytical solution, combining exploratory data analysis, predictive modeling, and customer segmentation to uncover insights that can shape strategic decisions across marketing, operations, and finance.
+---
 ### Core Business Questions
 
 1. **Why did profitability decline so significantly in Q4 2017 despite a spike in order volume?**
