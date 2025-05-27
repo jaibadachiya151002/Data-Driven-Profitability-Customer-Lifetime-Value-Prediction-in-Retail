@@ -17,7 +17,7 @@ In the rapidly evolving retail landscape, maintaining consistent profitability w
 * **Diagnose the root cause** behind the Q4 2017 profit drop using data-driven exploration and statistical analysis.
 * **Develop predictive models** to forecast order-level profitability and customer lifetime value (CLTV).
 * **Segment customers** meaningfully to enable personalized marketing, retention campaigns, and pricing strategies.
-* **Quantify churn risk** and estimate how long different customer groups are likely to remain active.
+* **Quantify churn risk** and estimate the average duration of activity for different customer groups.
 * **Deliver actionable KPIs and business recommendations** to guide decision-making in pricing, customer engagement, and channel strategy.
 
 ### Data Landscape
@@ -210,8 +210,4 @@ In **2017 Q4**, the business appears to have run **heavy discounting campaigns**
 ## 📁 Explore the Code
 
 See `description.ipynb` for code snippets and insights used throughout the project.
-
----
-
-Let me know if you'd like a version of this formatted for a portfolio site or LinkedIn too!
 
