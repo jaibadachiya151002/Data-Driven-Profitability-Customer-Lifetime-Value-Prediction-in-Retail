@@ -1,38 +1,33 @@
 # 🧠 Retail Analytics Project: Profitability Optimization & Customer Insights
+## 🧩 Problem Statement
 
-## 📌 Overview
+In the rapidly evolving retail landscape, maintaining consistent profitability while retaining valuable customers is critical to long-term success. In this business case, a large retail company experienced an alarming **48% drop in sales and a 32% decline in profit** during **Q4 of 2017**, despite achieving its **highest-ever order volume (6,041 orders)** in the same quarter. This counterintuitive trend raised urgent concerns among business stakeholders regarding the sustainability of their sales strategy, customer retention, and overall operational effectiveness.
 
-End-to-end data science project on \~180,000 retail transactions to diagnose a sudden Q4 2017 profit drop and build solutions around margin optimization, customer segmentation, and CLTV forecasting.
-Core Business Questions
-Why did profitability decline so significantly in Q4 2017 despite a spike in order volume?
+### Core Business Questions
 
-Which discounting and pricing strategies may have led to margin erosion?
+1. **Why did profitability decline so significantly in Q4 2017 despite a spike in order volume?**
+2. **Which discounting and pricing strategies may have led to margin erosion?**
+3. **What customer behaviors or market dynamics contributed to this pattern?**
+4. **How can the business predict future order profitability and reduce discount waste?**
+5. **Which customers should be prioritized for retention and upselling based on their long-term value?**
+6. **What is the expected churn behavior of different customer segments, and how can it be mitigated?**
 
-What customer behaviors or market dynamics contributed to this pattern?
+### Business Objectives
 
-How can the business predict future order profitability and reduce discount waste?
+* **Diagnose the root cause** behind the Q4 2017 profit drop using data-driven exploration and statistical analysis.
+* **Develop predictive models** to forecast order-level profitability and customer lifetime value (CLTV).
+* **Segment customers** meaningfully to enable personalized marketing, retention campaigns, and pricing strategies.
+* **Quantify churn risk** and estimate how long different customer groups are likely to remain active.
+* **Deliver actionable KPIs and business recommendations** to guide decision-making in pricing, customer engagement, and channel strategy.
 
-Which customers should be prioritized for retention and upselling based on their long-term value?
+### Data Landscape
 
-What is the expected churn behavior of different customer segments, and how can it be mitigated?
-
-Business Objectives
-Diagnose the root cause behind the Q4 2017 profit drop using data-driven exploration and statistical analysis.
-
-Develop predictive models to forecast order-level profitability and customer lifetime value (CLTV).
-
-Segment customers meaningfully to enable personalized marketing, retention campaigns, and pricing strategies.
-
-Quantify churn risk and estimate how long different customer groups are likely to remain active.
-
-Deliver actionable KPIs and business recommendations to guide decision-making in pricing, customer engagement, and channel strategy.
-
-Data Landscape
-~180,000 transactional records including order details, discount rates, customer IDs, shipping times, geolocation, and profit.
-
-Quarterly trends from 2014 to 2017, offering rich time-series insights into sales, discounting, and customer behavior.
+* \~180,000 transactional records including order details, discount rates, customer IDs, shipping times, geolocation, and profit.
+* Quarterly trends from 2014 to 2017, offering rich time-series insights into sales, discounting, and customer behavior.
 ---
-Analytics:
+
+## Analytics:
+
 ### IN 2017 Q4 – DROP ANALYSIS 
 
 #### Why is the **Total Discount Value** low (\~210K) while the **Average Discount** is high (\~33.15%)?
