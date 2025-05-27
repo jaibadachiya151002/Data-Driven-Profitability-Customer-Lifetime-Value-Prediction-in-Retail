@@ -11,7 +11,6 @@ At the same time, customer retention has become increasingly challenging, with a
 * **Identify high- and low-value customers** to enable more targeted marketing efforts.
 * **Predict future revenue potential** from customers to inform investment in retention.
 * **Quantify churn risk** and recommend interventions to reduce it.
-
 This business case requires a full-cycle analytical solution, combining exploratory data analysis, predictive modeling, and customer segmentation to uncover insights that can shape strategic decisions across marketing, operations, and finance.
 ---
 ### Core Business Questions
